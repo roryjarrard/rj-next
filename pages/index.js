@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Rory J</title>
+        <title>RJ World</title>
         <meta name='description' content="Rory's Site" />
         <link rel='icon' href='/favicon.ico' />
       </Head>
